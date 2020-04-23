@@ -1,0 +1,123 @@
+/* --PAGE NAVIGATION GOES HERE-- */
+.contact-nav {
+    color:#C8C8C8;
+    padding: 20px 20px;
+  }
+
+  .contact-nav:after {
+    content: '';
+    clear: both;
+    display: block;
+  }
+  .contact-details {
+    float: left;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .contact-account {
+    float: right;
+    padding: 0;
+    margin: 0;
+  }
+.contact-details li, 
+.contact-account li {
+    display:inline-block;
+    position: relative; 
+    padding-right: 30px;
+    font-size: 11px;
+}
+
+.contact-account li:last-child {
+ padding-right: 240px;}
+
+ .contact-details li:first-child {
+    padding-left: 180px;}
+   
+/* --PAGE HEADER GOES HERE-- */
+
+.topnav{
+    background-color: #F6F6F6;
+    padding: 30px 30px 80px 30px;
+}
+
+.search-btn{
+    color: #48C4A0;
+    font-size: 20px;
+}
+
+.main-nav li{
+display: inline-block;
+padding: 0px 20px;
+font-size: 12px;
+position: relative;
+}
+
+.main-nav li :first-child{
+    padding-left: 110px;
+    }
+
+.main-nav li :last-child{
+    padding-right: 40px;
+}
+
+
+/* --PAGE CONTENT GOES HERE-- */
+/*--MAIN-ONE--*/
+.containerone{
+    background-color: #D2E9E3;
+    margin: 0px 100px;
+    position: relative;
+    padding-left: 120px;
+}
+
+.containerone h1{
+    margin-top: -60px;
+    padding-top: 40px;
+}
+
+.containerone h3{
+  color: #ffa31a;
+}
+
+.view {
+    padding-top: 30px;
+    font-size: 12px;
+}
+
+.back-next{
+    padding-top: 110px;
+    padding-bottom: 40px;
+    font-size: 11px;
+}
+
+/*--MAIN-TWO--*/
+
+#numbertwo div{
+    background-color: #F4F5F7;
+    display: inline-block;
+}
+
+.comfortablechair{
+    float: left;
+    margin-left: 100px;
+}
+
+.comfortablechair h2, h4, p{
+    float: right;
+    display: block;
+  
+}
+
+.luxeriousnewdesk {
+float: right;
+margin-right: 100px;
+}
+/*--MAIN-THREE--*/
+/*--MAIN-FOUR--*/
+/*--MAIN-FIVE--*/
+/*--MAIN-SIX--*/
+/*--MAIN-SEVEN--*/
+/*--MAIN-EIGHT--*/
+
+/* --PAGE FOOTER GOES HERE-- */
