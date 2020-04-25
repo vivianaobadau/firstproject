@@ -92,36 +92,22 @@ position: relative;
 }
 
 /*--MAIN-TWO--*/
-
-#numbertwo div{
+.col-sm-4 {
     background-color: #F4F5F7;
     display: inline-block;
+    padding: 20px;
 }
 
-.comfortablechair{
+.col-sm-4 img{
     float: left;
-    margin-left: 100px;
 }
 
-.comfortablechair h2, h4, p{
-    
-  
+.row {
+    display: flex;
+    justify-content: space-around;
 }
 
-.luxeriousnewdesk {
-float: right;
-margin-right: 100px;
-padding-left: 150px;
-}
 
-.luxeriousnewdesk h2, h4, p {
-   margin-left: 0px;
-    padding left: 30px;
-}
-
-h4{
-  color:#C8C8C8; 
-}
 /*--MAIN-THREE--*/
 /*--MAIN-FOUR--*/
 /*--MAIN-FIVE--*/
